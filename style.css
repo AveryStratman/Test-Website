@@ -1,0 +1,24 @@
+@charset "UTF-8";
+html {
+    background-color: #000000;
+}
+body {
+    background-color: #000000;
+}
+/* CSS Document */
+
+h1 {
+    color: #9E9E9E;
+    text-align: center;
+}
+h2 {
+    text-align: center;
+    color: #8A8A8A;
+}
+h3 {
+    text-align: center;
+    color: #848484;
+}
+p {
+    color: #7D7D7D;
+}
